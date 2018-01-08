@@ -7,3 +7,5 @@ Beginner: Download the starter project files as .zip and extract the files to yo
 Pro: Git clone to your Xcode projects folder.
 
 
+<img src="IMG_647A70199CE9-1.jpeg" alt="Mountain View">
+
